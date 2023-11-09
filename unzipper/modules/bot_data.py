@@ -287,11 +287,11 @@ I can extract archives like `zip`, `rar`, `tar`, …
 
 • **Language :** [Python 3.11.5](https://www.python.org/)
 • **Framework :** [Pyrogram 2.0.106](https://pyrogram.org/)
-• **Source code :** [EDM115/unzip-bot](https://github.com/EDM115/unzip-bot)
-• **Developer :** [EDM115](https://github.com/EDM115)
+• **Source code :** [EDM115/unzip-bot](https://github.com/kotakbiasa/unzip-bot)
+• **Developer :** [EDM115](https://github.com/kotakbiasa)
 
-**[Rate me ⭐](https://t.me/BotsArchive/2705)**
-Made with ❤️ by **@EDM115bots**
+**[Channels ⭐](https://t.me/KotakBiasaCH)**
+Hosted ❤️ by **@KotakBiasa**
     """
 
     DONATE_TEXT = """
@@ -303,11 +303,12 @@ So if you can, donate :)
 It helps out a ton, covers the costs (hosting, updating, … 👨‍💻)
 
 --How ?--
-• **[Paypal](https://www.paypal.me/8EDM115)**
-• **[GitHub Sponsors](https://github.com/sponsors/EDM115)**
-• **[Directly in Telegram](https://t.me/EDM115bots/544)**
-• **[BuyMeACoffee](https://www.buymeacoffee.com/edm115)**
-• **[Send cryptos (not recommended)](https://edm115.shadd.eu.org/)**
+• **[Qris](https://telegra.ph/file/1de08014b4933b5e97705.png)**
+• ```
+TON: UQDj9QpD3VsKYCmddor79XTR7twV9-PgxWEMuIJyRFkcuC9F
+USDT: TUnx9DcLdDHJzFU24TrNrv9t4TLSoGdJ44
+Bitcoin: 13R1jn6rZ71ajXtDpwmSo5Teok7G9AYd52
+```
 
 Thanks for your contribution 😊
 
