@@ -71,7 +71,7 @@ Don't go AFK next time 😉
     BANNED = """
 **Sorry you're banned 💀**
 
-Report this at @EDM115_chat if you think this is a mistake, I may unban you
+Report this at @KotakBiasa if you think this is a mistake, I may unban you
     """
 
     NEW_USER_BAD = """
@@ -175,7 +175,7 @@ An error happened for `{}` 😕
 **Error type :** `{}`
 **Error message :** `{}`
 
-Please report this at @EDM115_chat if you think this is a serious error
+Please report this at @KotakBiasa if you think this is a serious error
     """
 
     REPORT_TEXT = """
@@ -334,7 +334,7 @@ Here's how : Become a VIP user and benefit from extra perks !
 **How to become a VIP ?**
 1) Send **/pay** to the bot
 2) Choose your subscription
-3) Send a screenshot of your payment to **@EDM115**
+3) Send a screenshot of your payment to **@KotakBiasa**
 4) Enjoy your VIP perks !
 
 **What happens when my subscription ends ?**
@@ -472,7 +472,7 @@ Do you really want to delete your thumbnail ?
 
 `{}`
 
-Please report this at @EDM115_chat if you think this is a serious error
+Please report this at @KotakBiasa if you think this is a serious error
     """
 
     CANCELLED_TXT = "**{} ✅**"
@@ -528,7 +528,7 @@ That's not an archive 💀
 
     DEF_NOT_AN_ARCHIVE = """
 This file is NOT an archive 😐
-If you believe it's an error, send the file to **@EDM115**
+If you believe it's an error, send the file to **@KotakBiasa**
     """
 
     PROCESSING2 = "`Processing… ⏳`"
@@ -556,7 +556,7 @@ Use the **/merge** command
     QUERY_PARSE_ERR = """
 Fatal query parsing error 💀
 
-Please contact @EDM115_chat with details and screenshots
+Please contact @KotakBiasa with details and screenshots
     """
 
     GIVE_NEW_NAME = """
@@ -682,12 +682,12 @@ It failed 😣 Retry
 If it fails again, it means that {} haven't started the bot yet (or deleted the chat), or he's private/banned/whatever
     """
 
-    REPORT_REPLY = "Reply to a message to report it to @EDM115"
+    REPORT_REPLY = "Reply to a message to report it to @KotakBiasa"
 
     REPORT_DONE = """
 Report sucessfully sent ! An answer will arrive soon
 
-Note : if you need to reply to replies, always use that /report command (or join **@EDM115_chat**)
+Note : if you need to reply to replies, always use that /report command (or chat **@KotakBiasa**)
     """
 
     BAN_ID = "Give an user id to ban 😈"
@@ -826,7 +826,7 @@ Here's all the commands that only the owner (you) can use :
 **/self** : Get full info about me (info returned by Pyrogram)
 **/redbutton** : Will fully restart bot + server
 **/cleanall** : Same as `/clean`, but for the whole server
-**/logs** : Send you the logs (all of them). Useful for bug tracking. Send them to **@EDM115** if you don't understand them/need help
+**/logs** : Send you the logs (all of them). Useful for bug tracking. Send them to **@KotakBiasa** if you don't understand them/need help
 **/restart** : Does a basic restart, less intrusive as the `/redbutton` one
 **/dbexport** : Exports the whole database as CSV
 **/admincmd** : This message
