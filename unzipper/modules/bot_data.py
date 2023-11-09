@@ -102,7 +102,7 @@ This may take a while, go grab a coffee ☕️
 {}
 {}
 
-**Powered by @EDM115bots**
+**Powered by @KotakBiasa**
     """
 
     PROCESSING = "**Processing…**"
@@ -123,7 +123,7 @@ This may take a while, go grab a coffee ☕️
 
     LOG_CHECKED = "Log channel alright"
 
-    BOT_RUNNING = "Bot is running now ! Join @EDM115bots"
+    BOT_RUNNING = "Bot is running now ! Join @KotakBIasaCH"
 
     WRONG_LOG = """
 Error : the provided **LOGS_CHANNEL** (`{}`) is incorrect
@@ -208,7 +208,7 @@ have been saved from the URL
 
 **⚠ IN ALL CASES ⚠**, please send **/clean**, else you couldn’t send any other task 🙂🔫 (may be fixed in the future)
 
-Please report this at @EDM115_chat if you think this is a serious error
+Please report this at @KotakBiasa if you think this is a serious error
     """
 
     HOW_MANY_UPLOADED = "`{}` files were extracted from that archive"
@@ -251,9 +251,7 @@ Hi **{}** 👋, I'm **Unarchiver bot** 🥰
 
 I can extract archives like `zip`, `rar`, `tar`, …
 
-**Made with ❤️ by @EDM115bots**
-
-**/donate** if you can 🥺
+**Made with ❤️ by @KotakBiasa**
     """
 
     HELP_TXT = """
@@ -279,7 +277,7 @@ I can extract archives like `zip`, `rar`, `tar`, …
 
 **• I wanna have help 🥺**
 
-    PM me at **@EDM115** or join the chat **@EDM115_chat**
+    PM me at **@KotakBiasa**
     """
 
     ABOUT_TXT = """
@@ -287,8 +285,8 @@ I can extract archives like `zip`, `rar`, `tar`, …
 
 • **Language :** [Python 3.11.5](https://www.python.org/)
 • **Framework :** [Pyrogram 2.0.106](https://pyrogram.org/)
-• **Source code :** [EDM115/unzip-bot](https://github.com/kotakbiasa/unzip-bot)
-• **Developer :** [EDM115](https://github.com/kotakbiasa)
+• **Source code :** [kotakbiasa/unzip-bot](https://github.com/kotakbiasa/unzip-bot)
+• **Developer :** [KotakBiasa](https://github.com/kotakbiasa)
 
 **[Channels ⭐](https://t.me/KotakBiasaCH)**
 Hosted ❤️ by **@KotakBiasa**
@@ -575,8 +573,6 @@ Please send the new file name (**--INCLUDE THE FILE EXTENTION !--**)
 
     UPLOADED = """
 **Successfully uploaded ✅**
-
-**Join @EDM115bots ❤️**
     """
 
     NO_FILE_LEFT = "There's no file left to upload"
